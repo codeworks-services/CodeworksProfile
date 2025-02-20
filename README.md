@@ -24,9 +24,5 @@ We want as a software development firm solely owned and handled by programmers. 
 - Web Design
 ✨ **Let’s collaborate on your next big idea!**
 
-### Recent Projects/Products Experience: 
-
-  
-
 
 
