@@ -8,7 +8,7 @@ We want as a software development firm solely owned and handled by programmers. 
 ---
 
 ### 🏆 Featured Projects:
-- 🚀 [ASP.NET Core Competency](https://github.com/codeworks-services/AspNetCoreMvc)) – This is an ASP.NET MVC App developed on .NET Core 8.0 framework using EF Core and SQL Server. It demonstrates a 3-layered architecture as an implementation of the Separation of Concerns principle. It uses dependency injection as design pattern. To run the application, simply download complete code, run the script file to create database, tables and few dummy data.
+- 🚀 [ASP.NET Core Competency](https://github.com/codeworks-services/AspNetCoreMvc) – This is an ASP.NET MVC App developed on .NET Core 8.0 framework using EF Core and SQL Server. It demonstrates a 3-layered architecture as an implementation of the Separation of Concerns principle. It uses dependency injection as design pattern. To run the application, simply download complete code, run the script file to create database, tables and few dummy data.
 
 - Benefits Enrollment & Onboarding System – Multi tenant SaaS product to manage employee benefits for US companies.
   - Tools & Technologies: .NET, .NET Core, ASP.NET, DNN, C#, AWS, Azure DevOps, SQL Server, Telerik Controls, LINQ, JavaScript, jQuery, Redmine, CodeCommit.
