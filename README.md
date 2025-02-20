@@ -1,9 +1,9 @@
-# CodeworksProfile
+# Codeworks Services
 We want as a software development firm solely owned and handled by programmers. At Codeworks Services, we specialize in delivering software that meet your vision. Founded in 2015 and headquartered in Ahmedabad, Gujarat, India, we pride ourselves on being a trusted technology partner for businesses worldwide. With over 9 years of industry experience, we have successfully collaborated with clients in the US and UK, leveraging our expertise across multiple domains.  
 
 🔧 **Skills:** ASP.Net | ASP.Net Core | ASP.Net MVC | SQL | JavaScript | AWS   
 💼 **Available For:** Freelance Projects, Consulting.  
-📬 **Contact Me:** sanjay@codeworksservices.com | [LinkedIn](https://www.linkedin.com/company/codeworksservices/)  
+📬 **Contact Us:** sanjay@codeworksservices.com | [LinkedIn](https://www.linkedin.com/company/codeworksservices/)  
 
 ---
 
