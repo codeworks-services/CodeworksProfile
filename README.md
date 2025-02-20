@@ -19,7 +19,7 @@ We want as a software development firm solely owned and handled by programmers. 
 - Allied Pilot Association (APA) - custom benefit enrollment solution for US Allied Pilot Associations.
   - Tools & Technologies: .NET, ASP.NET MVC, C#, Entity Framework, SQL Server, Angular.
   
-### 💼 Services I Offer:
+### 💼 Services We Offer:
 - Custom Web Development using ASP.NET CORE MVC, Jquery, Angular
 - Web Design
 ✨ **Let’s collaborate on your next big idea!**
