@@ -3,7 +3,7 @@ We want as a software development firm solely owned and handled by programmers. 
 
 🔧 **Skills:** ASP.Net | ASP.Net Core | ASP.Net MVC | SQL | JavaScript | AWS   
 💼 **Available For:** Freelance Projects, Consulting.  
-📬 **Contact Us:** sanjay@codeworksservices.com | [LinkedIn](https://www.linkedin.com/company/codeworksservices/)  
+📬 **Contact Us:** sanjay@codeworksservices.com | kaushal@codeworksservices.com  | [LinkedIn](https://www.linkedin.com/company/codeworksservices/)  
 
 ---
 
